@@ -6,3 +6,11 @@ Create User.
 
 Grant Permission
 3.GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
+
+
+
+
+
+
+
+CSLA .NET
